@@ -28,4 +28,21 @@ section {
     border-radius: 15px;
     background-color: white;
     padding: 15px 15px 15px 15px;
+    height: 600px;
+    font-size: 13pt;
+    font-family: 'Lucida Bright';
+}
+section aside {
+    font-style: italic;
+    background-color: pink;
+    min-height: 550px;
+    width: 20%;
+    padding: 15px 15px 15px 15px;
+    float: right;
+    /* justify-content: flex-end; */
+
+}
+section article {
+    width: 70%;
+    float: left;
 }
