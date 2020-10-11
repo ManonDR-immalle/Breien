@@ -53,3 +53,13 @@ section article {
     width: 70%;
     float: left;
 }
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: sandybrown;
+}
+h3 {
+    font-family: fantasy;
+    letter-spacing: 10pt;
+    color: pink;
+}
